@@ -1,0 +1,6 @@
+C:\Users\xCrixus\Documents\SharpDevelop Projects\Trabajo Integrador\Micritos\bin\Debug\Micritos.exe.config
+C:\Users\xCrixus\Documents\SharpDevelop Projects\Trabajo Integrador\Micritos\bin\Debug\Micritos.exe
+C:\Users\xCrixus\Documents\SharpDevelop Projects\Trabajo Integrador\Micritos\bin\Debug\Micritos.pdb
+C:\Users\xCrixus\Documents\SharpDevelop Projects\Trabajo Integrador\Micritos\obj\Debug\Micritos.csprojResolveAssemblyReference.cache
+C:\Users\xCrixus\Documents\SharpDevelop Projects\Trabajo Integrador\Micritos\obj\Debug\Micritos.exe
+C:\Users\xCrixus\Documents\SharpDevelop Projects\Trabajo Integrador\Micritos\obj\Debug\Micritos.pdb
